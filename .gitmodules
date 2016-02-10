@@ -1,0 +1,9 @@
+[submodule "quarc.ui.core"]
+	path = quarc.ui.core
+	url = https://github.com/manjeshpv/quarc.ui.core
+[submodule "quarc.ui.hire"]
+	path = quarc.ui.hire
+	url = https://github.com/manjeshpv/quarc.ui.hire
+[submodule "quarc.ui.partner"]
+	path = quarc.ui.partner
+	url = https://github.com/manjeshpv/quarc.ui.partner
